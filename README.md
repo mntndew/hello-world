@@ -1,3 +1,3 @@
 # hello-world
-repository
-I really like dogs.
+print "hello"
+print "hi"
